@@ -6,22 +6,22 @@ This is a Simple tool for github users.you can create professional README.md fil
 
 ## Command list👇👇
 
->`pkg update && pkg upgrade
+> pkg update && pkg upgrade
 
->`pkg install git
+> pkg install git
 
 > pkg install figlet
 
 > pkg install lolcat
 
 
->`git clone https://github.com/RazorKenway/README-Generator.git
+> git clone https://github.com/RazorKenway/README-Generator.git
 
->`cd README-Generator
+> cd README-Generator
 
->`python requirements.py
+> python requirements.py
 
->`python readmeGEN.py
+> python readmeGEN.py
 
 
 ### Razor Kenway
