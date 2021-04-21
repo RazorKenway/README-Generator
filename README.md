@@ -10,13 +10,18 @@ This is a Simple tool for github users.you can create professional README.md fil
 
 >`pkg install git
 
->`git clone http://github.com/RazorKenway/README-Generator.git
+> pkg install figlet
 
->`cd Hide-In-Picture
+> pkg install lolcat
+
+
+>`git clone https://github.com/RazorKenway/README-Generator.git
+
+>`cd README-Generator
 
 >`python requirements.py
 
->`python hide.py
+>`python readmeGEN.py
 
 
 ### Razor Kenway
@@ -26,7 +31,7 @@ This is a Simple tool for github users.you can create professional README.md fil
 
 <hr colour="Red">
 
-<img src="Hide-In-Picture.png" size ="15">
+<img src="README-Generator.png" size ="15">
 
 <br>
 
