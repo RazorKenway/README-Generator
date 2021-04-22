@@ -19,7 +19,7 @@ This is a Simple tool for github users.you can create professional README.md fil
 
 > cd README-Generator
 
-> python requirements.py
+> python requirements.py      (this file install only one time )
 
 > python readmeGEN.py
 
